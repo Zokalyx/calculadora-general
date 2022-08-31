@@ -111,7 +111,7 @@ export default function Formula(props) {
         <Box>
         <Typography>{props.description}</Typography>
         <Tex tex={props.name + " = " + props.expression} />
-            <Grid container alignItems="center">       
+            <Grid container alignItems="center" direction="column">       
             {inputs}
             {input_sliders}
             <Typography><Tex tex={props.name + " = "} inline /> {(props.formula(sanitized_variables) / factor ).toExponential() }</Typography>
