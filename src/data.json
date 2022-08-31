@@ -1,0 +1,77 @@
+{
+    "units": {
+        "kg": 1,
+        "s": 1,
+        "m": 1,
+        "K": 1,
+        "J": 1,
+
+        "cm": 0.01,
+
+        "m_0": 9.1093837e-31,
+        "eV": 1.60217663e-19
+    },
+    "constants": {
+        "pi": 3.14159265359,
+        "e": 2.71828182846,
+        "k": 1.380649e-23,
+        "h": 6.62607015e-34
+    },
+    "formulas": {
+        "n_i": {
+            "description": "Concentración intrínseca de portadores",
+            "expression": "2 \\left( \\frac{2 \\pi {\\sqrt{m_n m_p}} k T}{h^2} \\right)^{\\frac{3}{2}} e^{-\\frac{E_g}{2 k T}}",
+            "units": [
+                "m^{-3}",
+                "cm^{-3}"
+            ],
+            "variables": {
+                "m_n": {
+                    "description": "Masa efectiva del electrón",
+                    "type": "numeric",
+                    "value": {
+                        "mantissa": 1.1,
+                        "exponent": 0
+                    },
+                    "units": [
+                        "kg",
+                        "m_0"
+                    ]
+                },
+                "m_p": {
+                    "description": "Masa efectiva del hueco",
+                    "type": "numeric",
+                    "value": {
+                        "mantissa": 0.56,
+                        "exponent": 0
+                    },
+                    "units": [
+                        "kg",
+                        "m_0"
+                    ]
+                },
+                "T": {
+                    "description": "Temperatura",
+                    "type": "slider",
+                    "max": 1000,
+                    "value": 300,
+                    "units": [
+                        "K"
+                    ]
+                },
+                "E_g": {
+                    "description": "Energía de gap",
+                    "type": "numeric",
+                    "value": {
+                        "mantissa": 1.12,
+                        "exponent": 0
+                    },
+                    "units": [
+                        "J",
+                        "eV"
+                    ]
+                }
+            }
+        }
+    }
+}
