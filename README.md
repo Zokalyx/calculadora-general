@@ -33,3 +33,12 @@ En `src/data.json` está toda la información requerida para todos los cálculos
 - [evaluatex](https://github.com/arthanzel/evaluatex) para evaluar las fórmulas (escritas en Latex)
 - [react](https://reactjs.org) para el front-end
 - [materials ui](https://mui.com) para componentes del front-end
+
+## Tareas
+
+- 🌈 Decorar 🌈 y posicionar los elementos
+- Arreglar bug de renderizado de unidades (solo pasa en el build final, no en el dev)
+- Agregar más fórmulas
+- Agregar función de copiar y pegar
+- Agregar función de historial
+- Agregar función de presets
