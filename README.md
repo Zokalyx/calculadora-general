@@ -13,7 +13,7 @@
 
 ## Cómo agregar más fórmulas
 
-En `src/data.json` está toda la información requerida para todos los cálculos. No es necesario modificar el código JS para agregar más fórmulas.
+En [`src/data.json`](https://github.com/Zokalyx/calculadora-general/blob/main/src/data.json) está toda la información requerida para todos los cálculos. No es necesario modificar el código JS para agregar más fórmulas.
 
 Podés sugerir ideas abriendo un [issue](https://github.com/Zokalyx/calculadora-general/issues/new).
 
