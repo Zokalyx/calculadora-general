@@ -53,6 +53,7 @@ function App() {
   return (
     <MathJaxContext>
       <Link href="https://github.com/Zokalyx/calculadora-general">Repo</Link>
+      <Link href="https://www.omnicalculator.com">Omnicalculator</Link>
       {formula_list}
     </MathJaxContext>
   );

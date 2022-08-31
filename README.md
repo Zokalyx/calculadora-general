@@ -46,3 +46,8 @@ Podés sugerir ideas abriendo un [issue](https://github.com/Zokalyx/calculadora-
 - Agregar función de presets
 - Agregar editor de fórmulas
 - Agregar hojas de fórmulas y gráficos (estáticos)
+
+## [Omnicalculator](https://www.omnicalculator.com)
+
+- Concepto similar, pero tiene sus limitaciones
+- Tiene lindo diseño, estaría bueno 
