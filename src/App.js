@@ -3,6 +3,7 @@ import Formula from "./Formula";
 import evaluatex from "evaluatex/dist/evaluatex";
 
 import data from "./data.json";
+import { Link } from "@mui/material";
 const formulas = data.formulas;
 const constants = data.constants;
 const units = data.units;
@@ -51,6 +52,7 @@ function App() {
 
   return (
     <MathJaxContext>
+      <Link href="https://github.com/Zokalyx/calculadora-general">Repo</Link>
       {formula_list}
     </MathJaxContext>
   );
