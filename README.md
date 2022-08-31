@@ -1,6 +1,10 @@
 # Calculadora general
 
+- Calculadora de fórmulas varias, con soporte de unidades y notación científica
+
 ## [Link](https://zokalyx.github.io/calculadora-general/)
+
+- Hosteado en Github Pages
 
 ## Fórmulas disponibles
 
@@ -9,7 +13,7 @@
 
 ## Cómo agregar más fórmulas
 
-En `src/data.json` está toda la información requerida para todos los cálculos.
+En `src/data.json` está toda la información requerida para todos los cálculos. No es necesario modificar el código JS para agregar más fórmulas.
 
 ### Unidades
 - Se debe incluir su conversión al SI
