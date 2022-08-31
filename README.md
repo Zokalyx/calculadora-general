@@ -51,3 +51,8 @@ Podés sugerir ideas abriendo un [issue](https://github.com/Zokalyx/calculadora-
 
 - Concepto similar, pero tiene sus limitaciones
 - Tiene lindo diseño, estaría bueno ~~robarlo~~ *inspirarse a partir del mismo*
+
+## [Fourmilab](https://www.fourmilab.ch/webtools/units/)
+
+- Calculadora científica con unidades
+- Muy versátil pero hay que escribir todo a mano
