@@ -15,6 +15,8 @@
 
 En `src/data.json` está toda la información requerida para todos los cálculos. No es necesario modificar el código JS para agregar más fórmulas.
 
+Podés sugerir ideas abriendo un [issue](https://github.com/Zokalyx/calculadora-general/issues/new).
+
 ### Unidades
 - Se debe incluir su conversión al SI
 - Si la unidad ya es parte del SI, poner `1`
@@ -42,3 +44,4 @@ En `src/data.json` está toda la información requerida para todos los cálculos
 - Agregar función de copiar y pegar
 - Agregar función de historial
 - Agregar función de presets
+- Agregar editor de fórmulas
