@@ -40,8 +40,9 @@ Podés sugerir ideas abriendo un [issue](https://github.com/Zokalyx/calculadora-
 
 - 🌈 Decorar 🌈 y posicionar los elementos
 - Arreglar bug de renderizado de unidades (solo pasa en el build final, no en el dev)
-- Agregar más fórmulas
-- Agregar función de copiar y pegar
-- Agregar función de historial
+- Agregar más fórmulas y un navegador simple
+- Agregar función de copiar y pegar valores
+- Agregar función de historial de cuentas
 - Agregar función de presets
 - Agregar editor de fórmulas
+- Agregar hojas de fórmulas y gráficos (estáticos)
