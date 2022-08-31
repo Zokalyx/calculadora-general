@@ -50,4 +50,4 @@ Podés sugerir ideas abriendo un [issue](https://github.com/Zokalyx/calculadora-
 ## [Omnicalculator](https://www.omnicalculator.com)
 
 - Concepto similar, pero tiene sus limitaciones
-- Tiene lindo diseño, estaría bueno ~~robarlo~~ inspirarse a partir del mismo
+- Tiene lindo diseño, estaría bueno ~~robarlo~~ *inspirarse a partir del mismo*
