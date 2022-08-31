@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/calculadora-general/static/css/main.524f8d80.css",
-    "main.js": "/calculadora-general/static/js/main.4080d93e.js",
+    "main.js": "/calculadora-general/static/js/main.8876b553.js",
     "static/media/roboto-all-500-normal.woff": "/calculadora-general/static/media/roboto-all-500-normal.0ab669b7a0d19b178f57.woff",
     "static/media/roboto-latin-500-normal.woff2": "/calculadora-general/static/media/roboto-latin-500-normal.f25d774ecfe0996f8eb5.woff2",
     "static/media/roboto-cyrillic-ext-500-normal.woff2": "/calculadora-general/static/media/roboto-cyrillic-ext-500-normal.62ced72e5832f02c2796.woff2",
@@ -12,10 +12,10 @@
     "static/media/roboto-greek-ext-500-normal.woff2": "/calculadora-general/static/media/roboto-greek-ext-500-normal.6fb9cffb1d3e72bf9293.woff2",
     "index.html": "/calculadora-general/index.html",
     "main.524f8d80.css.map": "/calculadora-general/static/css/main.524f8d80.css.map",
-    "main.4080d93e.js.map": "/calculadora-general/static/js/main.4080d93e.js.map"
+    "main.8876b553.js.map": "/calculadora-general/static/js/main.8876b553.js.map"
   },
   "entrypoints": [
     "static/css/main.524f8d80.css",
-    "static/js/main.4080d93e.js"
+    "static/js/main.8876b553.js"
   ]
 }
